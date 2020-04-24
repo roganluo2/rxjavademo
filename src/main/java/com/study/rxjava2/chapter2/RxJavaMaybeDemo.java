@@ -1,6 +1,5 @@
 package com.study.rxjava2.chapter2;
 
-import com.sun.tools.corba.se.idl.StringGen;
 import io.reactivex.Maybe;
 import io.reactivex.MaybeEmitter;
 import io.reactivex.MaybeOnSubscribe;
